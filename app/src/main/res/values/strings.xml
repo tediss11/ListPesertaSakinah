@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ListPesertaSakinah</string>
+    <string name="title">Pencarian Calon Pasangan</string>
+    <string name="peserta_1">Aisyah</string>
+    <string name="peserta_2">Adinda</string>
+    <string name="peserta_3">Indriani</string>
+    <string name="peserta_4">Chandra</string>
+    <string name="peserta_5">Ummu Sualim</string>
+    <string name="peserta_6">Adinda</string>
+    <string name="peserta_7">Windriani</string>
+    <string name="peserta_8">Zainab</string>
+    <string name="no_peserta_1">(HTS-00001)</string>
+    <string name="no_peserta_2">(HTS-00002)</string>
+    <string name="no_peserta_3">(HTS-00003)</string>
+    <string name="no_peserta_4">(HTS-00004)</string>
+    <string name="no_peserta_5">(HTS-00005)</string>
+    <string name="no_peserta_6">(HTS-00006)</string>
+    <string name="no_peserta_7">(HTS-00007)</string>
+    <string name="no_peserta_8">(HTS-00008)</string>
+    <string name="tempatlahir_peserta_1">Pekalongan</string>
+    <string name="tempatlahir_peserta_2">Jakarta</string>
+    <string name="tempatlahir_peserta_3">Gorontalo</string>
+    <string name="tempatlahir_peserta_4">Jambi</string>
+    <string name="tempatlahir_peserta_5">Pekalongan</string>
+    <string name="tempatlahir_peserta_6">Jakarta</string>
+    <string name="tempatlahir_peserta_7">Gorontalo</string>
+    <string name="tempatlahir_peserta_8">Jambi</string>
+    <string name="information">Profil profil berikut adalah para peserta yang telah disesuaikan dengan preferensimu</string>
+    <string name="about">About:</string>
+    <string name="age">%d tahun </string>
+    <string name="dot"> • </string>
+</resources>
